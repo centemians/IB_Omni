@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjay Sharma",
+        "phoneNumber": "1231324931",
+        "rating": 5,
+        "walletBalance": 0,
+        "shopName": "Sharma Stores",
+        "locality": "Park-Avenue",
+        "city": "Kolkata",
+        "dailyLimit": 5000,
+        "onlineStatus": true
+    },
+    {
+        "id": 2,
+        "name": "Pragati Sharma",
+        "phoneNumber": "8131332431",
+        "rating": 5,
+        "walletBalance": 0,
+        "shopName": "Pragati Stores",
+        "locality": "Park-Avenue",
+        "city": "Kolkata",
+        "dailyLimit": 5000,
+        "onlineStatus": true
+    }
+]
